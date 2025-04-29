@@ -1,0 +1,2148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-12 12:23+0600\n"
+"PO-Revision-Date: 2022-04-12 12:23+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: footer\n"
+"X-Poedit-SearchPath-2: header\n"
+"X-Poedit-SearchPath-3: include\n"
+"X-Poedit-SearchPath-4: layout\n"
+"X-Poedit-SearchPath-5: learnpress\n"
+"X-Poedit-SearchPath-6: library\n"
+"X-Poedit-SearchPath-7: page-templates\n"
+"X-Poedit-SearchPath-8: tribe-events\n"
+"X-Poedit-SearchPath-9: templates\n"
+"X-Poedit-SearchPath-10: woocommerce\n"
+"X-Poedit-SearchPath-11: 404.php\n"
+"X-Poedit-SearchPath-12: archive.php\n"
+"X-Poedit-SearchPath-13: archive-gallery.php\n"
+"X-Poedit-SearchPath-14: archive-news.php\n"
+"X-Poedit-SearchPath-15: archive-teachers.php\n"
+"X-Poedit-SearchPath-16: author-bio.php\n"
+"X-Poedit-SearchPath-17: category.php\n"
+"X-Poedit-SearchPath-18: comments.php\n"
+"X-Poedit-SearchPath-19: content.php\n"
+"X-Poedit-SearchPath-20: content-audio.php\n"
+"X-Poedit-SearchPath-21: content-galleries.php\n"
+"X-Poedit-SearchPath-22: content-gallery.php\n"
+"X-Poedit-SearchPath-23: content-link.php\n"
+"X-Poedit-SearchPath-24: content-news.php\n"
+"X-Poedit-SearchPath-25: content-none.php\n"
+"X-Poedit-SearchPath-26: content-page.php\n"
+"X-Poedit-SearchPath-27: content-quote.php\n"
+"X-Poedit-SearchPath-28: content-teachers.php\n"
+"X-Poedit-SearchPath-29: content-video.php\n"
+"X-Poedit-SearchPath-30: footer.php\n"
+"X-Poedit-SearchPath-31: functions.php\n"
+"X-Poedit-SearchPath-32: header.php\n"
+"X-Poedit-SearchPath-33: index.php\n"
+"X-Poedit-SearchPath-34: page.php\n"
+"X-Poedit-SearchPath-35: search.php\n"
+"X-Poedit-SearchPath-36: sidebar.php\n"
+"X-Poedit-SearchPath-37: single.php\n"
+"X-Poedit-SearchPath-38: single-gallery.php\n"
+"X-Poedit-SearchPath-39: single-news.php\n"
+"X-Poedit-SearchPath-40: single-teachers.php\n"
+"X-Poedit-SearchPath-41: tag.php\n"
+"X-Poedit-SearchPath-42: woocommerce.php\n"
+
+#: 404.php:23 header.php:25
+msgid "preloder"
+msgstr ""
+
+#: 404.php:41
+msgid "404 - Page not found"
+msgstr ""
+
+#: 404.php:46
+msgid "Oops,"
+msgstr ""
+
+#: 404.php:47
+msgid ""
+"We Cannot find the page you are looking for. But Do not Worry. Here are a "
+"couple of helpful links"
+msgstr ""
+
+#: 404.php:48
+msgid "Back to home"
+msgstr ""
+
+#: 404.php:49
+msgid "View Sitemap"
+msgstr ""
+
+#: admin/demo-import.php:5
+msgid "Home default"
+msgstr ""
+
+#: admin/demo-import.php:10 admin/demo-import.php:19 admin/demo-import.php:28
+msgid "Please wait, it may take 3-5 minutes."
+msgstr ""
+
+#: admin/demo-import.php:14
+msgid "Home event"
+msgstr ""
+
+#: admin/demo-import.php:23
+msgid "Home kids"
+msgstr ""
+
+#: admin/onepage-universh-settings.php:13
+msgid "Universh Onepage Template Settings"
+msgstr ""
+
+#: admin/onepage-universh-settings.php:21
+msgid "General Settings"
+msgstr ""
+
+#: admin/onepage-universh-settings.php:27
+msgid "Select Menu"
+msgstr ""
+
+#: admin/theme-options.php:71
+msgid "General Options"
+msgstr ""
+
+#: admin/theme-options.php:75
+msgid "Background Options"
+msgstr ""
+
+#: admin/theme-options.php:79
+msgid "Header Options"
+msgstr ""
+
+#: admin/theme-options.php:83
+msgid "Footer Options"
+msgstr ""
+
+#: admin/theme-options.php:87
+msgid "Sidebar Options"
+msgstr ""
+
+#: admin/theme-options.php:91
+msgid "Blog Options"
+msgstr ""
+
+#: admin/theme-options.php:95
+msgid "News Options"
+msgstr ""
+
+#: admin/theme-options.php:99
+msgid "Woocommerce Options"
+msgstr ""
+
+#: admin/theme-options.php:103
+msgid "Course Options"
+msgstr ""
+
+#: admin/theme-options.php:107
+msgid "Event Options"
+msgstr ""
+
+#: admin/theme-options.php:111
+msgid "Gallery Options"
+msgstr ""
+
+#: admin/theme-options.php:115
+msgid "Teacher Options"
+msgstr ""
+
+#: admin/theme-options.php:119
+msgid "Typography Options"
+msgstr ""
+
+#: admin/theme-options.php:123
+msgid "Styling Options"
+msgstr ""
+
+#: admin/theme-options.php:127 admin/theme-options/customcss.php:7
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-options/background.php:7
+msgid "Background Layout Style"
+msgstr ""
+
+#: admin/theme-options/background.php:8
+msgid "style of background style"
+msgstr ""
+
+#: admin/theme-options/background.php:22 admin/theme-options/header.php:310
+msgid "Default"
+msgstr ""
+
+#: admin/theme-options/background.php:26
+msgid "Boxed"
+msgstr ""
+
+#: admin/theme-options/background.php:30
+msgid "Wide"
+msgstr ""
+
+#: admin/theme-options/background.php:36 admin/theme-options/background.php:37
+msgid "Boxed Background Image"
+msgstr ""
+
+#: admin/theme-options/background.php:57
+msgid "Container width"
+msgstr ""
+
+#: admin/theme-options/background.php:58
+msgid "Main container width"
+msgstr ""
+
+#: admin/theme-options/background.php:78
+msgid "Body background"
+msgstr ""
+
+#: admin/theme-options/background.php:79 admin/theme-options/background.php:99
+#: admin/theme-options/footer.php:119 admin/theme-options/footer.php:154
+msgid "Background can be image or color"
+msgstr ""
+
+#: admin/theme-options/background.php:98
+msgid "Main container background"
+msgstr ""
+
+#: admin/theme-options/background.php:118
+msgid "Sidebar background"
+msgstr ""
+
+#: admin/theme-options/background.php:119
+msgid "Sidebar Background"
+msgstr ""
+
+#: admin/theme-options/blog.php:7
+msgid "Blog layout Style"
+msgstr ""
+
+#: admin/theme-options/blog.php:8
+msgid "Blog layout style"
+msgstr ""
+
+#: admin/theme-options/blog.php:22 admin/theme-options/footer.php:37
+#: admin/theme-options/header.php:216
+msgid "Style 1"
+msgstr ""
+
+#: admin/theme-options/blog.php:26 admin/theme-options/footer.php:41
+#: admin/theme-options/header.php:220
+msgid "Style 2"
+msgstr ""
+
+#: admin/theme-options/blog.php:32
+msgid "Blog Header Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:33
+msgid "Blog page header title"
+msgstr ""
+
+#: admin/theme-options/blog.php:47
+msgid "Blog Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:48
+msgid "Blog page header sub-title"
+msgstr ""
+
+#: admin/theme-options/blog.php:62
+msgid "Blog layout"
+msgstr ""
+
+#: admin/theme-options/blog.php:63
+msgid "Blog layout for blog page"
+msgstr ""
+
+#: admin/theme-options/blog.php:77 admin/theme-options/blog.php:124
+#: admin/theme-options/course.php:52 admin/theme-options/course.php:99
+#: admin/theme-options/event.php:52 admin/theme-options/event.php:99
+#: admin/theme-options/gallery.php:52 admin/theme-options/gallery.php:99
+#: admin/theme-options/news.php:52 admin/theme-options/news.php:99
+#: admin/theme-options/teacher.php:52 admin/theme-options/teacher.php:99
+#: admin/theme-options/woocommerce.php:100
+#: admin/theme-options/woocommerce.php:147
+msgid "Full width"
+msgstr ""
+
+#: admin/theme-options/blog.php:82 admin/theme-options/blog.php:129
+#: admin/theme-options/course.php:57 admin/theme-options/course.php:104
+#: admin/theme-options/event.php:57 admin/theme-options/event.php:104
+#: admin/theme-options/gallery.php:57 admin/theme-options/gallery.php:104
+#: admin/theme-options/news.php:57 admin/theme-options/news.php:104
+#: admin/theme-options/teacher.php:57 admin/theme-options/teacher.php:104
+#: admin/theme-options/woocommerce.php:105
+#: admin/theme-options/woocommerce.php:152
+msgid "Left sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:87 admin/theme-options/blog.php:134
+#: admin/theme-options/course.php:62 admin/theme-options/course.php:109
+#: admin/theme-options/event.php:62 admin/theme-options/event.php:109
+#: admin/theme-options/gallery.php:62 admin/theme-options/gallery.php:109
+#: admin/theme-options/news.php:62 admin/theme-options/news.php:109
+#: admin/theme-options/teacher.php:62 admin/theme-options/teacher.php:109
+#: admin/theme-options/woocommerce.php:110
+#: admin/theme-options/woocommerce.php:157
+msgid "Right sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:94
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:95
+msgid "Select your blog sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:109 admin/theme-options/blog.php:110
+msgid "Blog single post layout"
+msgstr ""
+
+#: admin/theme-options/blog.php:141
+msgid "Single post Sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:142
+msgid "Single post sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:156 admin/theme-options/blog.php:157
+msgid "Sticky post text"
+msgstr ""
+
+#: admin/theme-options/blog.php:171 admin/theme-options/blog.php:172
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/theme-options/blog.php:186
+msgid "Display Related Posts"
+msgstr ""
+
+#: admin/theme-options/blog.php:201
+msgid "Number of Related Post"
+msgstr ""
+
+#: admin/theme-options/course.php:7
+msgid "Course Header Title"
+msgstr ""
+
+#: admin/theme-options/course.php:8
+msgid "Course page header title"
+msgstr ""
+
+#: admin/theme-options/course.php:22
+msgid "Course Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/course.php:23
+msgid "Course page header sub-title"
+msgstr ""
+
+#: admin/theme-options/course.php:37
+msgid "Course layout"
+msgstr ""
+
+#: admin/theme-options/course.php:38
+msgid "Course layout for course page"
+msgstr ""
+
+#: admin/theme-options/course.php:69
+msgid "Course Sidebar"
+msgstr ""
+
+#: admin/theme-options/course.php:70
+msgid "Select your Course sidebar"
+msgstr ""
+
+#: admin/theme-options/course.php:84 admin/theme-options/course.php:85
+msgid "Course single layout"
+msgstr ""
+
+#: admin/theme-options/course.php:116
+msgid "Single Course Sidebar"
+msgstr ""
+
+#: admin/theme-options/course.php:117
+msgid "Single course sidebar"
+msgstr ""
+
+#: admin/theme-options/event.php:7
+msgid "Event Header Title"
+msgstr ""
+
+#: admin/theme-options/event.php:8
+msgid "Event page header title"
+msgstr ""
+
+#: admin/theme-options/event.php:22
+msgid "Event Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/event.php:23
+msgid "Event page header sub-title"
+msgstr ""
+
+#: admin/theme-options/event.php:37
+msgid "Event layout"
+msgstr ""
+
+#: admin/theme-options/event.php:38
+msgid "Event layout for event page"
+msgstr ""
+
+#: admin/theme-options/event.php:69
+msgid "Event Sidebar"
+msgstr ""
+
+#: admin/theme-options/event.php:70
+msgid "Select your event sidebar"
+msgstr ""
+
+#: admin/theme-options/event.php:84
+msgid "Event single layout"
+msgstr ""
+
+#: admin/theme-options/event.php:85
+msgid "event single layout"
+msgstr ""
+
+#: admin/theme-options/event.php:116
+msgid "Single Event Sidebar"
+msgstr ""
+
+#: admin/theme-options/event.php:117
+msgid "Single Event sidebar"
+msgstr ""
+
+#: admin/theme-options/footer.php:7
+msgid "Footer widget area"
+msgstr ""
+
+#: admin/theme-options/footer.php:22
+msgid "Footer Style"
+msgstr ""
+
+#: admin/theme-options/footer.php:23
+msgid "style of footer widget"
+msgstr ""
+
+#: admin/theme-options/footer.php:45 admin/theme-options/header.php:224
+msgid "Style 3"
+msgstr ""
+
+#: admin/theme-options/footer.php:49 admin/theme-options/header.php:228
+msgid "Style 4"
+msgstr ""
+
+#: admin/theme-options/footer.php:53 admin/theme-options/header.php:232
+msgid "Style 5"
+msgstr ""
+
+#: admin/theme-options/footer.php:57 admin/theme-options/header.php:236
+msgid "Style 6"
+msgstr ""
+
+#: admin/theme-options/footer.php:61 admin/theme-options/header.php:240
+msgid "Style 7"
+msgstr ""
+
+#: admin/theme-options/footer.php:67
+msgid "Footer Widget top background"
+msgstr ""
+
+#: admin/theme-options/footer.php:68
+msgid "Background only for footer style 7"
+msgstr ""
+
+#: admin/theme-options/footer.php:87
+msgid "Footer Parallax Background"
+msgstr ""
+
+#: admin/theme-options/footer.php:88
+msgid "Footer Parallax Background for style 5"
+msgstr ""
+
+#: admin/theme-options/footer.php:103
+msgid "Footer widget box"
+msgstr ""
+
+#: admin/theme-options/footer.php:118
+msgid "Footer Widget background"
+msgstr ""
+
+#: admin/theme-options/footer.php:138
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-options/footer.php:153
+msgid "Footer Copyright background"
+msgstr ""
+
+#: admin/theme-options/footer.php:173
+msgid "Footer scripts"
+msgstr ""
+
+#: admin/theme-options/footer.php:174
+msgid "Custom script add footer part"
+msgstr ""
+
+#: admin/theme-options/gallery.php:7
+msgid "Gallery Header Title"
+msgstr ""
+
+#: admin/theme-options/gallery.php:8
+msgid "Gallery page header title"
+msgstr ""
+
+#: admin/theme-options/gallery.php:22
+msgid "Gallery Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/gallery.php:23
+msgid "Gallery page header sub-title"
+msgstr ""
+
+#: admin/theme-options/gallery.php:37
+msgid "Gallery layout"
+msgstr ""
+
+#: admin/theme-options/gallery.php:38
+msgid "Gallery layout for gallery page"
+msgstr ""
+
+#: admin/theme-options/gallery.php:69
+msgid "Gallery Sidebar"
+msgstr ""
+
+#: admin/theme-options/gallery.php:70
+msgid "Select your gallery sidebar"
+msgstr ""
+
+#: admin/theme-options/gallery.php:84 admin/theme-options/gallery.php:85
+msgid "Gallery single layout"
+msgstr ""
+
+#: admin/theme-options/gallery.php:116
+msgid "Single Gallery Sidebar"
+msgstr ""
+
+#: admin/theme-options/gallery.php:117
+msgid "Single gallery sidebar"
+msgstr ""
+
+#: admin/theme-options/general.php:7 admin/theme-options/general.php:8
+msgid "Preloder Image"
+msgstr ""
+
+#: admin/theme-options/general.php:22
+msgid "Header Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:23
+msgid "Header logo"
+msgstr ""
+
+#: admin/theme-options/general.php:37
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:38
+msgid "Footer logo"
+msgstr ""
+
+#: admin/theme-options/general.php:52
+msgid "Admin Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:53
+msgid "Admin login logo"
+msgstr ""
+
+#: admin/theme-options/header.php:7 admin/theme-options/header.php:178
+#: include/woo_functions.php:121
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-options/header.php:12 admin/theme-options/header.php:183
+#: include/woo_functions.php:122
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-options/header.php:17 admin/theme-options/header.php:188
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-options/header.php:22 admin/theme-options/header.php:173
+msgid "Google+"
+msgstr ""
+
+#: admin/theme-options/header.php:27 admin/theme-options/header.php:193
+msgid "RSS"
+msgstr ""
+
+#: admin/theme-options/header.php:32 admin/theme-options/header.php:152
+msgid "Instagram"
+msgstr ""
+
+#: admin/theme-options/header.php:37
+msgid "LinkdIn"
+msgstr ""
+
+#: admin/theme-options/header.php:42
+msgid "Behance"
+msgstr ""
+
+#: admin/theme-options/header.php:47
+msgid "Digg"
+msgstr ""
+
+#: admin/theme-options/header.php:52
+msgid "Dribbble"
+msgstr ""
+
+#: admin/theme-options/header.php:57
+msgid "Flickr"
+msgstr ""
+
+#: admin/theme-options/header.php:62
+msgid "Forrst"
+msgstr ""
+
+#: admin/theme-options/header.php:67
+msgid "Html5"
+msgstr ""
+
+#: admin/theme-options/header.php:72
+msgid "Icloud"
+msgstr ""
+
+#: admin/theme-options/header.php:77
+msgid "Lastfm"
+msgstr ""
+
+#: admin/theme-options/header.php:82
+msgid "Myspace"
+msgstr ""
+
+#: admin/theme-options/header.php:87
+msgid "Paypal"
+msgstr ""
+
+#: admin/theme-options/header.php:92
+msgid "Picasa"
+msgstr ""
+
+#: admin/theme-options/header.php:97
+msgid "Reddit"
+msgstr ""
+
+#: admin/theme-options/header.php:102
+msgid "Skype"
+msgstr ""
+
+#: admin/theme-options/header.php:107
+msgid "Stumbleupon"
+msgstr ""
+
+#: admin/theme-options/header.php:112
+msgid "Tumblr"
+msgstr ""
+
+#: admin/theme-options/header.php:117
+msgid "Vimeo"
+msgstr ""
+
+#: admin/theme-options/header.php:122
+msgid "WordPress"
+msgstr ""
+
+#: admin/theme-options/header.php:127
+msgid "Yahoo"
+msgstr ""
+
+#: admin/theme-options/header.php:132
+msgid "Youtube"
+msgstr ""
+
+#: admin/theme-options/header.php:137
+msgid "Github"
+msgstr ""
+
+#: admin/theme-options/header.php:142
+msgid "Yelp"
+msgstr ""
+
+#: admin/theme-options/header.php:147 include/woo_functions.php:124
+msgid "Mail"
+msgstr ""
+
+#: admin/theme-options/header.php:157
+msgid "Foursquare"
+msgstr ""
+
+#: admin/theme-options/header.php:162
+msgid "Zerply"
+msgstr ""
+
+#: admin/theme-options/header.php:167
+msgid "VK"
+msgstr ""
+
+#: admin/theme-options/header.php:201
+msgid "Header Style"
+msgstr ""
+
+#: admin/theme-options/header.php:202
+msgid "style of header"
+msgstr ""
+
+#: admin/theme-options/header.php:246
+msgid "Header Top Bar"
+msgstr ""
+
+#: admin/theme-options/header.php:261 admin/theme-options/header.php:262
+msgid "Header Top left email"
+msgstr ""
+
+#: admin/theme-options/header.php:276 admin/theme-options/header.php:277
+msgid "Header Top left phone"
+msgstr ""
+
+#: admin/theme-options/header.php:291
+msgid "Social Icon Style"
+msgstr ""
+
+#: admin/theme-options/header.php:292
+msgid "style of social icons"
+msgstr ""
+
+#: admin/theme-options/header.php:306
+msgid "Colored"
+msgstr ""
+
+#: admin/theme-options/header.php:316 admin/theme-options/header.php:317
+msgid "Header Top Social Icons"
+msgstr ""
+
+#: admin/theme-options/header.php:331
+msgid "Link"
+msgstr ""
+
+#: admin/theme-options/header.php:345
+msgid "Icon"
+msgstr ""
+
+#: admin/theme-options/header.php:346
+msgid "exemple: facebook"
+msgstr ""
+
+#: admin/theme-options/header.php:362
+msgid "Header Top Bar Search"
+msgstr ""
+
+#: admin/theme-options/header.php:377
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: admin/theme-options/news.php:7
+msgid "News Header Title"
+msgstr ""
+
+#: admin/theme-options/news.php:8
+msgid "News page header title"
+msgstr ""
+
+#: admin/theme-options/news.php:22
+msgid "News Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/news.php:23
+msgid "News page header sub-title"
+msgstr ""
+
+#: admin/theme-options/news.php:37
+msgid "News layout"
+msgstr ""
+
+#: admin/theme-options/news.php:38
+msgid "News layout for news page"
+msgstr ""
+
+#: admin/theme-options/news.php:69
+msgid "News Sidebar"
+msgstr ""
+
+#: admin/theme-options/news.php:70
+msgid "Select your news sidebar"
+msgstr ""
+
+#: admin/theme-options/news.php:84 admin/theme-options/news.php:85
+msgid "News single layout"
+msgstr ""
+
+#: admin/theme-options/news.php:116
+msgid "Single News Sidebar"
+msgstr ""
+
+#: admin/theme-options/news.php:117
+msgid "Single News sidebar"
+msgstr ""
+
+#: admin/theme-options/sidebar.php:7
+msgid "Create Sidebar"
+msgstr ""
+
+#: admin/theme-options/sidebar.php:8
+msgid "Click add new to add new sidebar, after adding click save changes"
+msgstr ""
+
+#: admin/theme-options/sidebar.php:22
+#: include/custom-menu/edit_custom_walker.php:263
+msgid "Description"
+msgstr ""
+
+#: admin/theme-options/sidebar.php:23
+msgid "(optional)"
+msgstr ""
+
+#: admin/theme-options/styling.php:7
+msgid "Preset Color"
+msgstr ""
+
+#: admin/theme-options/styling.php:8
+msgid "Main preset color"
+msgstr ""
+
+#: admin/theme-options/teacher.php:7
+msgid "Teacher Header Title"
+msgstr ""
+
+#: admin/theme-options/teacher.php:8
+msgid "Teacher page header title"
+msgstr ""
+
+#: admin/theme-options/teacher.php:22
+msgid "Teacher Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/teacher.php:23
+msgid "Teacher page header sub-title"
+msgstr ""
+
+#: admin/theme-options/teacher.php:37
+msgid "Teacher layout"
+msgstr ""
+
+#: admin/theme-options/teacher.php:38
+msgid "Teacher layout for teacher page"
+msgstr ""
+
+#: admin/theme-options/teacher.php:69
+msgid "Teacher Sidebar"
+msgstr ""
+
+#: admin/theme-options/teacher.php:70
+msgid "Select your teacher sidebar"
+msgstr ""
+
+#: admin/theme-options/teacher.php:84 admin/theme-options/teacher.php:85
+msgid "Teacher single layout"
+msgstr ""
+
+#: admin/theme-options/teacher.php:116
+msgid "Single teacher Sidebar"
+msgstr ""
+
+#: admin/theme-options/teacher.php:117
+msgid "Single teacher sidebar"
+msgstr ""
+
+#: admin/theme-options/typography.php:7
+msgid "Google API Key"
+msgstr ""
+
+#: admin/theme-options/typography.php:8
+msgid "Google API key for google font"
+msgstr ""
+
+#: admin/theme-options/typography.php:22
+msgid "Google Fonts."
+msgstr ""
+
+#: admin/theme-options/typography.php:23
+msgid "You can add multiple google fonts and set it to any tag."
+msgstr ""
+
+#: admin/theme-options/typography.php:37
+msgid "Body &amp; Content p"
+msgstr ""
+
+#: admin/theme-options/typography.php:59
+msgid "Body a"
+msgstr ""
+
+#: admin/theme-options/typography.php:80
+msgid "Menu a"
+msgstr ""
+
+#: admin/theme-options/typography.php:101
+msgid "Submenu a"
+msgstr ""
+
+#: admin/theme-options/typography.php:122
+msgid "H1"
+msgstr ""
+
+#: admin/theme-options/typography.php:144
+msgid "H2"
+msgstr ""
+
+#: admin/theme-options/typography.php:166
+msgid "H3"
+msgstr ""
+
+#: admin/theme-options/typography.php:188
+msgid "H4"
+msgstr ""
+
+#: admin/theme-options/typography.php:210
+msgid "H5"
+msgstr ""
+
+#: admin/theme-options/typography.php:231
+msgid "H6"
+msgstr ""
+
+#: admin/theme-options/typography.php:252
+msgid "Sidebar typography options"
+msgstr ""
+
+#: admin/theme-options/typography.php:253
+msgid "Only Applied on sidebar widget area"
+msgstr ""
+
+#: admin/theme-options/typography.php:273
+msgid "Sidebar Title"
+msgstr ""
+
+#: admin/theme-options/typography.php:294
+msgid "Sidebar p"
+msgstr ""
+
+#: admin/theme-options/typography.php:315
+msgid "Sidebar Link"
+msgstr ""
+
+#: admin/theme-options/typography.php:336
+msgid "Footer Typography option"
+msgstr ""
+
+#: admin/theme-options/typography.php:337
+msgid "Only applied on footer."
+msgstr ""
+
+#: admin/theme-options/typography.php:351
+msgid "Footer p"
+msgstr ""
+
+#: admin/theme-options/typography.php:372
+msgid "Footer Link"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:7
+msgid "Product column"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:23
+msgid "Related product show in single product"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:39
+msgid "Related Product column"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:55
+msgid "Shop Title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:56
+msgid "Shop page title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:70
+msgid "Shop Sub Title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:71
+msgid "Shop page sub title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:85
+#: admin/theme-options/woocommerce.php:86
+msgid "Shop Layout"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:117
+msgid "Shop Sidebar"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:118
+msgid "Select your shop sidebar"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:132
+msgid "Single Product Layout"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:133
+msgid "Single product layout"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:164
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:165
+msgid "Select your single product sidebar"
+msgstr ""
+
+#: admin/universh-settings.php:13
+msgid "universh Page Settings"
+msgstr ""
+
+#: admin/universh-settings.php:21
+msgid "Header Settings"
+msgstr ""
+
+#: admin/universh-settings.php:27
+msgid "Custom Title"
+msgstr ""
+
+#: admin/universh-settings.php:38
+msgid "Title"
+msgstr ""
+
+#: admin/universh-settings.php:49
+msgid "Sub Title"
+msgstr ""
+
+#: admin/universh-settings.php:61
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/universh-settings.php:67
+msgid "Default Layout"
+msgstr ""
+
+#: admin/universh-settings.php:81
+msgid "Full Width"
+msgstr ""
+
+#: admin/universh-settings.php:86
+msgid "With Left Sidebar"
+msgstr ""
+
+#: admin/universh-settings.php:91
+msgid "With Right sidebar"
+msgstr ""
+
+#: admin/universh-settings.php:98
+msgid "Select Sidebar"
+msgstr ""
+
+#: admin/universh-settings.php:110
+msgid "Layout Padding"
+msgstr ""
+
+#: admin/universh-settings.php:124
+msgid "With Padding"
+msgstr ""
+
+#: admin/universh-settings.php:128
+msgid "No Padding"
+msgstr ""
+
+#: admin/widgets.php:12
+msgid "Main Sidebar"
+msgstr ""
+
+#: admin/widgets.php:14
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: admin/widgets.php:48
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: admin/widgets.php:50
+#, php-format
+msgid "Appears in Footer column %d"
+msgstr ""
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:12 content-gallery.php:12 content-link.php:12
+#: content-quote.php:12 content-video.php:12 content.php:12
+msgid "Featured"
+msgstr ""
+
+#: content-audio.php:51 content-audio.php:113 content-audio.php:135
+#: content-galleries.php:33 content-gallery.php:51 content-gallery.php:113
+#: content-gallery.php:135 content-link.php:56 content-link.php:118
+#: content-link.php:140 content-news.php:52 content-quote.php:60
+#: content-quote.php:122 content-quote.php:144 content-teachers.php:17
+#: content-video.php:51 content-video.php:113 content-video.php:135
+#: content.php:45 content.php:107 content.php:129 include/functions.php:628
+#: include/functions.php:678 include/learnpress_functions.php:112
+#: templates/default-loop.php:39 templates/list-loop.php:27
+#: templates/teaser-loop.php:18 tribe-events/single-event.php:97
+msgid "Read More"
+msgstr ""
+
+#: content-audio.php:58 content-audio.php:140 content-gallery.php:58
+#: content-gallery.php:140 content-link.php:63 content-link.php:145
+#: content-quote.php:67 content-quote.php:149 content-video.php:58
+#: content-video.php:140 content.php:52 content.php:134
+msgid "Category:"
+msgstr ""
+
+#: content-audio.php:64 content-audio.php:146 content-gallery.php:64
+#: content-gallery.php:146 content-link.php:69 content-link.php:151
+#: content-quote.php:73 content-quote.php:155 content-video.php:64
+#: content-video.php:146 content.php:58 content.php:140
+msgid "Tags:"
+msgstr ""
+
+#: content-audio.php:80 content-audio.php:161 content-galleries.php:36
+#: content-gallery.php:80 content-gallery.php:161 content-link.php:85
+#: content-link.php:166 content-news.php:59 content-page.php:10
+#: content-quote.php:89 content-quote.php:170 content-teachers.php:20
+#: content-video.php:80 content-video.php:161 content.php:74 content.php:155
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:84 content-audio.php:165 content-galleries.php:40
+#: content-gallery.php:84 content-gallery.php:165 content-link.php:89
+#: content-link.php:170 content-news.php:63 content-page.php:18
+#: content-quote.php:93 content-quote.php:174 content-teachers.php:24
+#: content-video.php:84 content-video.php:165 content.php:78 content.php:159
+msgid "Page"
+msgstr ""
+
+#: content-galleries.php:21
+msgid "Author"
+msgstr ""
+
+#: content-link.php:30
+msgid "-"
+msgstr ""
+
+#: content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: functions.php:65
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:132 tribe-events/tickets/rsvp.php:113
+msgid "Full Name"
+msgstr ""
+
+#: functions.php:133 include/functions.php:52 tribe-events/tickets/rsvp.php:121
+msgid "Email"
+msgstr ""
+
+#: functions.php:134
+msgid "Message"
+msgstr ""
+
+#: functions.php:135
+msgid "Send Now"
+msgstr ""
+
+#: header.php:29
+msgid "Top"
+msgstr ""
+
+#: header.php:68
+msgid "info@universh.com"
+msgstr ""
+
+#: header.php:69
+msgid "(568) 456-7890"
+msgstr ""
+
+#: header/banner.php:6 header/banner.php:94
+msgid "Universh News"
+msgstr ""
+
+#: header/banner.php:7 header/banner.php:10 header/banner.php:13
+#: header/banner.php:16 header/banner.php:19 header/banner.php:22
+#: header/banner.php:26 header/banner.php:85 header/banner.php:89
+#: header/banner.php:95 header/banner.php:100 header/banner.php:105
+#: header/banner.php:110 header/banner.php:115
+msgid "All you want know"
+msgstr ""
+
+#: header/banner.php:9 header/banner.php:99
+msgid "Universh Course"
+msgstr ""
+
+#: header/banner.php:12 header/banner.php:104
+msgid "Universh gallery"
+msgstr ""
+
+#: header/banner.php:15 header/banner.php:109
+msgid "Universh teacher"
+msgstr ""
+
+#: header/banner.php:18 header/banner.php:114
+msgid "Universh event"
+msgstr ""
+
+#: header/banner.php:21 header/banner.php:25
+msgid "Universh Blog"
+msgstr ""
+
+#: header/banner.php:29
+msgid "Category Archives: "
+msgstr ""
+
+#: header/banner.php:35
+msgid "Search Result"
+msgstr ""
+
+#: header/banner.php:36
+msgid "This is a Search Results Page for: "
+msgstr ""
+
+#: header/banner.php:39
+msgid "Author Archives: "
+msgstr ""
+
+#: header/banner.php:45
+msgid "Tag Archives: "
+msgstr ""
+
+#: header/banner.php:53
+msgid "Daily Archives: "
+msgstr ""
+
+#: header/banner.php:55
+msgid "Monthly Archives: "
+msgstr ""
+
+#: header/banner.php:57
+msgid "Yearly Archives: "
+msgstr ""
+
+#: header/banner.php:59
+msgid "Archives"
+msgstr ""
+
+#: header/banner.php:63
+msgid "Not Found"
+msgstr ""
+
+#: header/banner.php:64
+msgid "Sorry page not found.."
+msgstr ""
+
+#: header/banner.php:84
+msgid "Shop"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:87
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:95
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:139
+msgid "Move up"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:165
+msgid "Move down"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:169
+#: include/custom-menu/edit_custom_walker.php:173
+msgid "Edit Menu Item"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:189
+msgid "URL"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:203
+msgid "Navigation Label"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:215
+msgid "Title Attribute"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:229
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:239
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:251
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:267
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:281
+msgid "Submenu Type"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:287
+msgid "Standard Dropdown"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:293
+msgid "Megamenu"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:299
+msgid "Megamenu Fullwidth"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:313
+msgid "Submenu Columns (Only for Megamenus)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:335
+msgid "Custom CSS Style"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:351
+msgid "Caption"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:363
+msgid "Caption Background Style"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:367
+msgid "Blue"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:369
+msgid "Red"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:371
+msgid "Green"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:373
+msgid "Yellow"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:375
+msgid "Pink"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:393
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:419
+msgid "Remove"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:421
+msgid "Cancel"
+msgstr ""
+
+#: include/functions.php:9
+msgid "..."
+msgstr ""
+
+#: include/functions.php:45
+msgid "Comment"
+msgstr ""
+
+#: include/functions.php:49
+msgid "Name"
+msgstr ""
+
+#: include/functions.php:55
+msgid "Website"
+msgstr ""
+
+#: include/functions.php:63
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: include/functions.php:66
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: include/functions.php:70
+msgid "Post a comment"
+msgstr ""
+
+#: include/functions.php:71
+#, php-format
+msgid "Post a comment to %s"
+msgstr ""
+
+#: include/functions.php:72
+msgid "Cancel Reply"
+msgstr ""
+
+#: include/functions.php:73
+msgid "Submit"
+msgstr ""
+
+#: include/functions.php:181
+msgid "Pingback:"
+msgstr ""
+
+#: include/functions.php:181 include/functions.php:197
+msgid "Edit"
+msgstr ""
+
+#: include/functions.php:200
+msgid "Reply"
+msgstr ""
+
+#: include/functions.php:203
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: include/functions.php:206
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: include/functions.php:224 include/functions.php:246
+msgid "menu settings"
+msgstr ""
+
+#: include/functions.php:439
+msgid "images thumbnail"
+msgstr ""
+
+#: include/functions.php:528
+msgid "Older"
+msgstr ""
+
+#: include/functions.php:531
+msgid "Newer"
+msgstr ""
+
+#: include/functions.php:577
+msgid "Share on Facebook"
+msgstr ""
+
+#: include/functions.php:579
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: include/functions.php:580
+msgid "Share on Google Plus"
+msgstr ""
+
+#: include/functions.php:613
+msgid "Related Post :"
+msgstr ""
+
+#: include/functions.php:665
+msgid "Read Related Article :"
+msgstr ""
+
+#: include/functions.php:699
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: include/functions.php:724
+msgid "Wrong username or password."
+msgstr ""
+
+#: include/functions.php:726
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: include/learnpress_functions.php:51 learnpress/single-course/sidebar.php:55
+#: templates/course-lists.php:37 templates/course-loop.php:38
+msgid "Free"
+msgstr ""
+
+#: include/learnpress_functions.php:61 templates/course-lists.php:47
+#: templates/course-loop.php:48
+msgid "with Prof."
+msgstr ""
+
+#: include/learnpress_functions.php:67 templates/course-lists.php:49
+#: templates/course-loop.php:54
+msgid "Apply Now"
+msgstr ""
+
+#: include/learnpress_functions.php:100
+msgid "Related Courses"
+msgstr ""
+
+#: include/woo_functions.php:86
+msgid "View More"
+msgstr ""
+
+#: include/woo_functions.php:119
+msgid "Share :"
+msgstr ""
+
+#: include/woo_functions.php:123
+msgid "Linkedin"
+msgstr ""
+
+#: include/woo_functions.php:124
+msgid "mail"
+msgstr ""
+
+#: include/woo_functions.php:125
+msgid "googleplus"
+msgstr ""
+
+#: layout/before.php:100
+msgid "image"
+msgstr ""
+
+#: learnpress/single-course/enroll-button-new.php:27
+msgid ""
+"Sorry! You can not buy this course right now. Please contact admin site for "
+"more information"
+msgstr ""
+
+#: learnpress/single-course/enroll-button-new.php:31
+#: learnpress/single-course/enroll-button.php:23
+msgid "Buy this course"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:24
+msgid "Enroll"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:28
+msgid "You have already enrolled this course"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:33
+msgid "Congratulations! You have finished this course"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:50
+msgid "You have already purchased this course. Please wait for approve"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:58
+#, php-format
+msgid ""
+"This course is already added to your cart <a href=\"%s\" class=\"button view-"
+"cart-button\">%s</a>"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:58
+msgid "View Cart"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:60
+#, php-format
+msgid ""
+"You have selected course. <a href=\"%s\" class=\"button view-cart-button\">"
+"%s</a>"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:60
+msgid "Process Checkout"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:69
+msgid "View cart"
+msgstr ""
+
+#: learnpress/single-course/enroll-button.php:77
+msgid "Sorry, you can not purchase this course"
+msgstr ""
+
+#: learnpress/single-course/sidebar.php:51
+msgid "Price"
+msgstr ""
+
+#: learnpress/single-course/sidebar.php:58
+msgid "Students"
+msgstr ""
+
+#: learnpress/single-course/sidebar.php:59
+msgid "Comments"
+msgstr ""
+
+#: learnpress/single-course/sidebar.php:60
+msgid "Duration"
+msgstr ""
+
+#: learnpress/single-course/sidebar.php:62
+msgid "Course Details"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:393
+#: library/class-tgm-plugin-activation.php:912
+#: library/class-tgm-plugin-activation.php:2618
+#: library/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:394
+#: library/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1019
+#: library/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3594
+#: library/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/tgm-plugins.php:64
+msgid "Universh Shortcodes"
+msgstr ""
+
+#: library/tgm-plugins.php:77
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: library/tgm-plugins.php:90
+msgid "Slider Revolution"
+msgstr ""
+
+#: library/tgm-plugins.php:103
+msgid "OptionTree"
+msgstr ""
+
+#: library/tgm-plugins.php:116
+msgid "WooCommerce"
+msgstr ""
+
+#: library/tgm-plugins.php:123
+msgid "Contact Form 7"
+msgstr ""
+
+#: library/tgm-plugins.php:130
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: library/tgm-plugins.php:137
+msgid "Newsletter"
+msgstr ""
+
+#: library/tgm-plugins.php:144
+msgid "LearnPress"
+msgstr ""
+
+#: library/tgm-plugins.php:151
+msgid "The Events Calendar"
+msgstr ""
+
+#: library/tgm-plugins.php:158
+msgid "One Click Demo Import"
+msgstr ""
+
+#: library/tgm-plugins.php:165
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: templates/course-lists.php:66 templates/course-loop.php:77
+msgid "Course not found"
+msgstr ""
+
+#: templates/default-loop.php:58 templates/list-loop.php:39
+#: templates/single-post.php:28 templates/teaser-loop.php:28
+msgid "Posts not found"
+msgstr ""
+
+#: templates/events-lists.php:34 templates/events-loop.php:39
+msgid "I'm Going"
+msgstr ""
+
+#: templates/events-lists.php:46 templates/events-loop.php:56
+msgid "Events not found"
+msgstr ""
+
+#: templates/gallery-loop.php:7
+msgid "All"
+msgstr ""
+
+#: templates/gallery-loop.php:105
+msgid "Gallery not found"
+msgstr ""
+
+#: templates/news-loop.php:60
+msgid "News not found"
+msgstr ""
+
+#: templates/pricing-loop.php:59
+msgid "Pricing not found"
+msgstr ""
+
+#: templates/single-post.php:17
+msgid "Posted"
+msgstr ""
+
+#: templates/single-post.php:17
+msgid "0 comments"
+msgstr ""
+
+#: templates/single-post.php:17
+msgid "1 comment"
+msgstr ""
+
+#: templates/single-post.php:17
+msgid "%n comments"
+msgstr ""
+
+#: templates/small-loop.php:41 templates/teachers-loop.php:67
+msgid "Teachers not found"
+msgstr ""
+
+#: tribe-events/single-event.php:42
+msgid "Timing"
+msgstr ""
+
+#: tribe-events/single-event.php:82
+msgid "Related Events : "
+msgstr ""
+
+#: tribe-events/single-event.php:119
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:32
+msgid "Please fill in the RSVP confirmation name and email fields."
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:62
+msgid "Available Tickets"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:69
+msgid "Total Members"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:78
+msgid "Out of stock!"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:101
+msgid "Send RSVP confirmation to:"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:130
+msgid "RSVP"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:141
+msgid "Don't list me on the public attendee list"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:152
+msgid "Login to RSVP"
+msgstr ""
+
+#: tribe-events/tickets/rsvp.php:154
+msgid "Confirm RSVP"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:102
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:116
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:88
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:109
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:40
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/title.php:25
+msgid "By "
+msgstr ""

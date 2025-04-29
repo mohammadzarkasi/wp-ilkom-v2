@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wp-ilkom-v2' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '12345678' );
+define( 'DB_PASSWORD', '123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
