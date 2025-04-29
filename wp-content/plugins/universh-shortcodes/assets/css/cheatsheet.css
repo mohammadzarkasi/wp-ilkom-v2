@@ -1,0 +1,88 @@
+#wt-cheatsheet-screen table {
+	margin: 30px 0;
+	margin-bottom: 1.11111rem;
+	border: solid 1px #ddd;
+	background: #fff;
+}
+#wt-cheatsheet-screen table thead {
+	background: #f5f5f5;
+}
+#wt-cheatsheet-screen table thead tr th,
+#wt-cheatsheet-screen table thead tr td {
+	padding: 0.44444rem 0.55556rem 0.55556rem;
+	color: #222;
+	font-weight: bold;
+}
+#wt-cheatsheet-screen table tfoot {
+	background: #f5f5f5;
+}
+#wt-cheatsheet-screen table tfoot tr th,
+#wt-cheatsheet-screen table tfoot tr td {
+	padding: 0.44444rem 0.55556rem 0.55556rem;
+	color: #222;
+	font-weight: bold;
+}
+#wt-cheatsheet-screen table tr th,
+#wt-cheatsheet-screen table tr td {
+	padding: 0.5rem 0.55556rem;
+	color: #222;
+	text-align: left;
+}
+#wt-cheatsheet-screen table tr.even,
+#wt-cheatsheet-screen table tr.alt,
+#wt-cheatsheet-screen table tr:nth-of-type(even) {
+	background: #f9f9f9;
+}
+#wt-cheatsheet-screen table thead tr th,
+#wt-cheatsheet-screen table tfoot tr th,
+#wt-cheatsheet-screen table tfoot tr td,
+#wt-cheatsheet-screen table tbody tr th,
+#wt-cheatsheet-screen table tbody tr td,
+#wt-cheatsheet-screen table tr td {
+	display: table-cell;
+	vertical-align: top;
+}
+
+#wt-cheatsheet-screen table .wt-shortcode-icon {
+	display: inline-block;
+	width: 24px;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+#wt-cheatsheet-screen table .wt-shortcode-desc {
+	font-size: 0.8em;
+	color: #777;
+	margin: 5px 0 0 0;
+	font-style: normal;
+}
+
+#wt-cheatsheet-screen table .wt-shortcode-attribute {
+	margin-top: 1.5em;
+	color: #666;
+}
+#wt-cheatsheet-screen table .wt-shortcode-attribute:first-child { margin-top: 0; }
+#wt-cheatsheet-screen table .wt-shortcode-attribute p { margin: 5px; }
+#wt-cheatsheet-screen table .wt-shortcode-attribute strong,
+#wt-cheatsheet-screen table .wt-shortcode-attribute em {
+	color: #000;
+	font-style: normal;
+}
+#wt-cheatsheet-screen table .wt-shortcode-attribute strong em {
+	color: #666;
+	font-weight: normal;
+	font-style: normal;
+}
+#wt-cheatsheet-screen table code {
+	display: block;
+	white-space: pre-wrap;
+	font-family: monospace;
+}
+
+body.wt-print-cheatsheet #wpadminbar,
+body.wt-print-cheatsheet #adminmenuback,
+body.wt-print-cheatsheet #adminmenuwrap,
+body.wt-print-cheatsheet #wpfooter { display: none; }
+body.wt-print-cheatsheet #wpcontent { margin: 0 0 0 30px; }
+#wt-cheatsheet-print-head { display: none; }
+body.wt-print-cheatsheet #wt-cheatsheet-print-head { display: inline-block; }
+body.wt-print-cheatsheet #wt-cheatsheet-print { display: none; }

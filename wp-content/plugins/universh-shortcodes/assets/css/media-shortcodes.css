@@ -1,0 +1,55 @@
+/*** Universh Shortcodes - media elements ***/
+
+/* Container for responsive media elements */
+
+.wt-responsive-media-yes {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+}
+.wt-responsive-media-yes iframe,
+.wt-responsive-media-yes object,
+.wt-responsive-media-yes embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*		YouTube
+---------------------------------------------------------------*/
+
+.wt-youtube { margin: 0 0 1.5em 0 }
+.wt-youtube iframe { border: none !important }
+
+/*		Vimeo
+---------------------------------------------------------------*/
+
+.wt-vimeo { margin: 0 0 1.5em 0 }
+.wt-vimeo iframe { border: none !important }
+
+/*		Screenr
+---------------------------------------------------------------*/
+
+.wt-screenr { margin: 0 0 1.5em 0 }
+.wt-screenr iframe { border: none !important }
+
+/*		Dailymotion
+---------------------------------------------------------------*/
+
+.wt-dailymotion { margin: 0 0 1.5em 0 }
+.wt-dailymotion iframe { border: none !important }
+
+/*		Document
+---------------------------------------------------------------*/
+
+.wt-document { margin: 0 0 1.5em 0 }
+.wt-document iframe { border: none !important }
+
+/*		Gmap
+---------------------------------------------------------------*/
+
+.wt-gmap { margin: 0 0 1.5em 0 }
+.wt-gmap iframe { border: none !important }

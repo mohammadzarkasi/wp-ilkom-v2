@@ -1,0 +1,98 @@
+/*** Universh Shortcodes - RTL support - front ***/
+
+/*		Tabs + Tab
+---------------------------------------------------------------*/
+
+.wt-tabs-nav span {
+	margin-right: 0;
+	margin-left: 3px;
+}
+.wt-tabs-vertical .wt-tabs-nav {
+	float: right;
+}
+.wt-tabs-vertical .wt-tabs-panes {
+	float: right;
+}
+.wt-tabs-vertical .wt-tabs-nav span {
+	margin-left: 0;
+}
+@media only screen and (max-width: 768px) {
+	.wt-tabs-vertical .wt-tabs-nav,
+	.wt-tabs-vertical .wt-tabs-panes {
+		float: none;
+	}
+}
+
+/*		Spoiler + Accordion
+---------------------------------------------------------------*/
+
+.wt-spoiler-title {
+	padding: 7px 34px 7px 7px;
+}
+.wt-spoiler-icon {
+	right: 7px;
+}
+.wt-spoiler-style-default > .wt-spoiler-title {
+	padding-right: 27px;
+	padding-left: 0;
+}
+.wt-spoiler-style-default > .wt-spoiler-title > .wt-spoiler-icon { right: 0; }
+
+/*		Quote
+---------------------------------------------------------------*/
+
+.wt-quote .wt-quote-cite {
+	text-align: left;
+}
+
+/*		Row + Column
+---------------------------------------------------------------*/
+
+.wt-column {
+	margin: 0 0 0 4%;
+	float: right;
+}
+.wt-column-last { margin-left: 0; }
+.wt-row .wt-column { margin: 0 4% 0 0; }
+.wt-row .wt-column.wt-column-size-1-1 { margin-left: 0; margin-right: 0; }
+.wt-row .wt-column:first-child { margin-right: 0; }
+@media only screen {
+	[class*="wt-column"] + [class*="wt-column"]:last-child { float: left; }
+}
+
+/*		Service
+---------------------------------------------------------------*/
+
+.wt-service-title img,
+.wt-service-title i {
+	left: auto;
+	right: 0;
+}
+
+/*		Label
+---------------------------------------------------------------*/
+
+.wt-label {
+	margin-right: 0;
+	margin-left: 0.3em;
+}
+
+/*		Dropcap
+---------------------------------------------------------------*/
+
+.wt-dropcap {
+	float: right;
+	margin: 0.2em 0 0.2em 0.5em;
+}
+
+/*		List
+---------------------------------------------------------------*/
+
+.wt-list ul li {
+	padding: 4px 2em 4px 0 !important;
+}
+.wt-list ul li > img,
+.wt-list ul li i {
+	left: auto;
+	right: 0;
+}
